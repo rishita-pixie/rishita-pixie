@@ -16,7 +16,7 @@ Welcome to my GitHub universe 🌌
 
 <div align="center" style="position: relative;">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" height="250" style="border-radius: 15px;"/>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80" style="position: absolute; top: 10px; right: 10px; border-radius: 50%;"/>
+  
 </div>
 
 ---
@@ -27,56 +27,23 @@ Welcome to my GitHub universe 🌌
 <tr>
 <td width="60%">
 
-🎓 *BTech Student* | Computer Science Engineering | *Graphic Era Hill University*  
-🌸 *Currently in 2nd Year* - Still figuring out which semicolon broke my code 😅  
-💻 *Web Development Enthusiast* - Making the web prettier, one pixel at a time  
+
+ <br>
+ 🎓 *BTech Student* | Computer Science Engineering | *Graphic Era Hill University*  
+🌸 *Currently in 2nd Year* <br>
+💻 *Web Development Enthusiast* <br>
 🚀 *Learning Phase* - Collecting knowledge like shooting stars  
-☕ *Coffee-to-Code Converter* - Powered by caffeine and creativity  
-💡 *Fun Fact:* I debug with console.log() and I'm proud of it! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
+
 
 </td>
 <td width="40%">
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" style="border-radius: 10px;">
-  <br>
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="50">
+ 
 </div>
 </td>
 </tr>
 </table>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> *What I'm Up To*
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" style="border-radius: 10px;">
-<br><strong>🔭 Currently Working On</strong>
-<br><em>Secret projects that sparkle ✨</em>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" style="border-radius: 10px;">
-<br><strong>🌱 Currently Learning</strong>
-<br><em>React, Node.js & magic tricks 🎪</em>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" style="border-radius: 10px;">
-<br><strong>👯 Looking to Collaborate</strong>
-<br><em>Cool projects with good vibes 🌈</em>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" style="border-radius: 10px;">
-<br><strong>💬 Ask Me About</strong>
-<br><em>Web Dev & cute coding stories 💝</em>
-</td>
-</tr>
-</table>
-</div>
-
----
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> *Connect With Me*
 
@@ -105,7 +72,7 @@ Welcome to my GitHub universe 🌌
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"> *My Tech Arsenal*
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,c,vue,nodejs,express,threejs,tailwind,vite,figma,canva&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,c,nodejs,express,threejs,tailwind,vite,figma,canva&perline=8&theme=dark" />
 </div>
 
 ### *Languages & Frameworks*
@@ -125,7 +92,7 @@ Welcome to my GitHub universe 🌌
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -138,9 +105,9 @@ Welcome to my GitHub universe 🌌
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> *GitHub Analytics*
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50">
-  <br>
-  <img src="https://github-readme-streak-stats.vercel.app?user=rishita-pixie&theme=radical&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+
+ 
+ 
 </div>
 
 <div align="center">
@@ -154,20 +121,9 @@ Welcome to my GitHub universe 🌌
 
 ---
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> *Activity Graph*
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishita-pixie&bg_color=0d1117&color=ff6b9d&line=58a6ff&point=ff6b9d&area=true&hide_border=true&border_radius=15" alt="Contribution Graph">
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="60">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60">
   
   ### *"Code is poetry written for machines but meant for humans"* ✨
-  – Me, probably after too much coffee ☕
+
   
   <br>
   <img src="https://komarev.com/ghpvc/?username=rishita-pixie&style=for-the-badge&color=ff6b9d&label=Profile+Views" alt="Profile Views">
