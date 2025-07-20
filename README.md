@@ -119,31 +119,11 @@ Welcome to my GitHub universe 🌌
   <img src="https://github-profile-trophy.vercel.app/?username=rishita-pixie&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6&border_radius=15" alt="GitHub Trophies">
 </div>
 
----
 
-  
-  ### *"Code is poetry written for machines but meant for humans"* ✨
 
-  
-  <br>
+<br>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=rishita-pixie&style=for-the-badge&color=ff6b9d&label=Profile+Views" alt="Profile Views">
-</div>
 
----
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=18&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+💖;Let's+build+something+amazing+together!+✨;Happy+Coding!+🚀;Stay+awesome!+🌈" alt="Closing Message" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="80">
- 
- 
-</div>
-
----
-<div align="center">
-
-  <em>💫 Made with lots of ☕, 💖 love, and a sprinkle of ✨ magic!</em>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30">
 </div>
