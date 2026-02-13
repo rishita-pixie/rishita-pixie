@@ -156,12 +156,6 @@ const rishita = {
   </a>
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
-  <em><b>"Fueled by coffee, driven by code, inspired by possibilities!"</b> ☕→💻→✨</em> 
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-</div>
 
 ---
 
