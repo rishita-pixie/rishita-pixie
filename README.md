@@ -1,11 +1,6 @@
 <h2><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50"/>
 <img src="https://emojis.slackmojis.com/emojis/images/1643511113/49835/nyan_parrot.gif" width="30"/> Hey there! I'm <strong>Rishita Nainwal</strong> <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="50"/> </h2>
 
-<h4>
-💻 Software Developer <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> | 
-🎨 UI/UX Enthusiast <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="40"> | 
-🧩 Problem Solver <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-</h4>
 
 <p align="center">
   <em>Welcome to my corner of the digital universe 🌌 where ideas transform into code!</em>
