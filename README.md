@@ -13,13 +13,13 @@
 
 
 <p align="center">
-  <a href="YOUR_LEETCODE_LINK">
+  <a href="https://leetcode.com/u/pLY3HBBF27/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="YOUR_GFG_LINK">
+  <a href="https://www.geeksforgeeks.org/profile/nainwalrin1us">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-  <a href="YOUR_CODEFORCES_LINK">
+  <a href="https://www.codechef.com/users/real_lily_21">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
