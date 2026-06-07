@@ -1,22 +1,33 @@
-<h2><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50"/>
-<img src="https://emojis.slackmojis.com/emojis/images/1643511113/49835/nyan_parrot.gif" width="30"/> Hey there! I'm <strong>Rishita Nainwal</strong> <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="50"/> </h2>
 
+<h1 align="center"> Rishita Nainwal </h1>
 
 <p align="center">
-  <em>Welcome to my corner of the digital universe 🌌 where ideas transform into code!</em>
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=🔥+Passionate+Web+Developer;🎓+CSE+Student+%40+Graphic+Era;💁🏼‍♀️+Second+Year+Tech+Enthusiast;💪🏻+Learning+%26+Growing+Every+Day;💫+Turning+Dreams+into+Code;🚀+Building+the+Future+One+Line+at+a+Time" alt="Typing SVG" />
+ <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=+Passionate+Web+Developer;+CSE+Student+%40+Graphic+Era;+Third+Year+Tech+Enthusiast;+Learning+%26+Growing+Every+Day;+Turning+Dreams+into+Code;+Building+the+Future+One+Line+at+a+Time" alt="Typing SVG" />
 </div>
+</p>
 
 <div align="center" style="position: relative;">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" height="250" style="border-radius: 15px;"/>
 </div>
 
----
+
+<p align="center">
+  <a href="YOUR_LEETCODE_LINK">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="YOUR_GFG_LINK">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="YOUR_CODEFORCES_LINK">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> **About Me**
+
 
 <table>
 <tr>
@@ -24,11 +35,13 @@
 
 👋 Hi! I'm **Rishita**, a passionate Computer Science student on a mission to blend creativity with technology.
 
-🎓 **Education**: BTech in Computer Science Engineering | **Graphic Era Hill University**  
-📚 **Current Status**: 2nd Year Student | Building strong foundations in software development  
-💻 **Focus Areas**: Full-stack Web Development, UI/UX Design, and Modern JavaScript Frameworks  
-🚀 **Journey**: Currently in my learning phase, absorbing knowledge like a sponge and transforming it into real-world projects  
-🎯 **Goals**: To contribute to open-source, build impactful applications, and continuously evolve as a developer
+  **education**  :  B.Tech CSE · Graphic Era Hill University · 3rd Year,
+  
+  **focus**      :  Full-Stack Web Dev, UI/UX Design, 3D Web Graphics,
+  
+  **learning**   :  React, Node.js, Express.js, Three.js,
+  
+  **goal**       :  Build impactful apps · Contribute to open-source · Ship real products,
 
 > *"The best way to predict the future is to create it."* – Building mine, one commit at a time! 💪
 
@@ -55,7 +68,6 @@ const rishita = {
 };
 ```
 
----
 
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"> **My Tech Arsenal**
 
