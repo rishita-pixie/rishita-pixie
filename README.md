@@ -129,9 +129,8 @@ const rishita = {
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishita-pixie&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishita-pixie&theme=radical&hide_border=true&border_radius=15&v=2" alt="GitHub Streak Stats">
 </div>
-
 
 
 <div align="center">
