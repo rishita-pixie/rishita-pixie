@@ -132,11 +132,6 @@ const rishita = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishita-pixie&theme=radical&hide_border=true&border_radius=15&v=2" alt="GitHub Streak Stats">
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishita-pixie&theme=react-dark&hide_border=true&border_radius=15" alt="Contribution Graph">
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **Let's Connect!**
