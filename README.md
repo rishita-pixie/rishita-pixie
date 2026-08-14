@@ -124,7 +124,11 @@ const rishita = {
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> **GitHub Analytics**
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
+
+<p align="center">
+  <img src="./profile/stats.svg" width="48%" />
+</p>
 
 
 
