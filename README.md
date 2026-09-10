@@ -37,9 +37,9 @@
 
   **education**  :  B.Tech CSE · Graphic Era Hill University · 3rd Year,
   
-  **focus**      :  Full-Stack Web Dev, UI/UX Design, 3D Web Graphics,
+  **focus**      :  Full-Stack Web Dev, UI/UX Design, Systems & Kernel,
   
-  **learning**   :  React, Node.js, Express.js, Three.js,
+  **learning**   :  React, Node.js, Express.js,
   
   **goal**       :  Build impactful apps · Contribute to open-source · Ship real products,
 
