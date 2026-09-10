@@ -136,48 +136,8 @@ const rishita = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishita-pixie&theme=radical&hide_border=true&border_radius=15&v=2" alt="GitHub Streak Stats">
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **Let's Connect!**
-
-<p align="center">
-  <em>I'm always excited to collaborate on interesting projects or just chat about tech! 💬</em>
-</p>
-
-<div align="center">
-  <a href="mailto:nainwalrishita87@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF1744" alt="Gmail">
-  </a>
-  <a href="https://linkedin.com/in/rishita-nainwal-521314322">
-    <img src="https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/@RishitaNainwal">
-    <img src="https://img.shields.io/badge/X-FF6B9D?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X">
-  </a>
-</div>
 
 
----
-
-## <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="30"> **Fun Facts & Interests**
-
-- 🎮 When I'm not coding, you'll find me exploring new design trends
-- 📖 Always learning something new – currently diving deep into backend development
-- 🎨 Believer in the perfect blend of aesthetics and functionality
-- 🌟 Open to collaboration on innovative web projects
-- 💡 Love turning complex problems into simple, elegant solutions
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="50">
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=rishita-pixie&style=for-the-badge&color=ff6b9d&label=Profile+Views" alt="Profile Views">
-  <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=20&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+💖;Let's+build+something+amazing+together!+✨;Open+to+collaborations+and+new+opportunities!+🚀;Keep+coding%2C+keep+creating!+🌈;Feel+free+to+reach+out+–+always+happy+to+connect!+👋" alt="Closing Message" />
-  <br><br>
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</div>
 
 <div align="center">
   
