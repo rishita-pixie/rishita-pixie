@@ -60,11 +60,11 @@
 
 ```javascript
 const rishita = {
-    currentlyLearning: ["Node.js", "Express.js", "Three.js", "React"],
-    workingOn: "Building interactive web experiences",
-    exploring: "3D web graphics and modern UI frameworks with little bit of cloud",
-    askMeAbout: ["Web Development", "UI/UX Design", "JavaScript"],
-    lifeGoal: "To make the web more beautiful also addind DSA tooo"
+    currentlyLearning: ["DSA", "Linux", "System Programming"],
+    workingOn: "Building real-world web applications",
+    exploring: ["Systems", "Kernel", "Linux", "Networking", "Cloud"],
+    askMeAbout: ["Web Development" , "DSA", "Systems"],
+    lifeGoal: "To build useful things, understand how they work under the hood, and keep learning."
 };
 ```
 
